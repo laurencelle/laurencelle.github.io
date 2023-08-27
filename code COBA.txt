@@ -1,0 +1,11 @@
+<font size=large><center>Bienvenue à votre cours de mathématique. Cliquez <a target="_blank" href=https://laurencelle.github.io/mathcst5.html><font color=blue><b>ici</b></font></a> pour accéder au site du cours. Vous y trouverez:
+<font size=-1>
+- le plan de cours
+- la liste des devoirs
+- de nombreux documents et corrigés
+- les dates de récupération
+- les dates d'examens
+- etc.</font>
+
+Bonne année scolaire!
+</center></font>
