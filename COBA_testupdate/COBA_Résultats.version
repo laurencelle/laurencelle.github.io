@@ -1,5 +1,5 @@
 5.6.0.0
-- nouvelle fonctionnalité: copie directe des résultats de Quizizz à COBA (ou ailleurs)
+- copie directe des résultats de Quizizz à COBA (ou ailleurs)
 - QUIZIZZ: le programme est compatible avec les deux types d’affichages (grande fenêtre / petite fenêtre) et deux langues (français / anglais)
 - MOODLE et QUIZIZZ: choix parmi 3 formats pour les résultats: notes brutes, % arrondis au dixième ou % arrondis à l’unité (ce choix est aussi enregistré, indépendamment pour chaque plateforme)
 - MOODLE et QUIZIZZ: ordre alphabétique des noms d’élèves identique à celui de COBA (même pour les caractères spéciaux comme l’espace, le trait d’union et l’apostrophe)
@@ -9,21 +9,21 @@
 - amélioration des messages d’erreur et avertissements (notes alpha)
 
 5.5.0.0
-- nouvelle fonctionnalité: le programme peut se mettre à jour automatiquement !
-- affichage des nouveautés depuis la dernière mise à jour
+- Mise à jour automatique du programme !
+- Affichage des nouveautés depuis la dernière mise à jour
 
 5.4.0.0
-- correctif du bug dans Moodle lorsqu’un “recalcul” de notes a été effectué (le programme ne trouvait alors pas les notes)
+- Correctif du bug “recalcul” dans Moodle
 
 5.3.0.0
-- conversion des notes manquantes « - » au choix de l’utilisateur (AB, PN, etc.), avec possibilité de rendre ce choix permanent
+- Conversion des notes manquantes « - » au choix
 
 5.2.0.0
-- fenêtres interactives mieux positionnées
+- Fenêtres interactives mieux positionnées
 
 5.1.0.0
-- correctif du bug dans Moodle lorsque l’option “Points pour chaque question” n’est pas activée (le programme attribuait alors une note de 0 à chaque élève)
-nouveau message d’erreur en cas de notes introuvables dans Moodle
+- Correctif du bug dans Moodle lorsque l’option “Points pour chaque question” n’est pas activée (le programme attribuait alors une note de 0 à chaque élève)
+- Nouveau message d’erreur en cas de notes introuvables dans Moodle
 
 5.0.0.0
 - maintenant compatible avec Microsoft Edge (en plus de Google Chrome)
