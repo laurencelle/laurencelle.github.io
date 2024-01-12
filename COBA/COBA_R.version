@@ -1,75 +1,9 @@
 5.6.0.0 / 5.6
-- copie directe des résultats de Quizizz à COBA (ou ailleurs)
-- QUIZIZZ: le programme est compatible avec les deux types d’affichages (grande fenêtre / petite fenêtre) et deux langues (français / anglais)
-- MOODLE et QUIZIZZ: choix parmi 3 formats pour les résultats: notes brutes, % arrondis au dixième ou % arrondis à l’unité (ce choix est aussi enregistré, indépendamment pour chaque plateforme)
-- MOODLE et QUIZIZZ: ordre alphabétique des noms d’élèves identique à celui de COBA (même pour les caractères spéciaux comme l’espace, le trait d’union et l’apostrophe)
-- MOODLE et QUIZIZZ: plusieurs cas particuliers de noms d’élèves sont pris en compte
-- MOODLE: le programme détecte mieux le numéro du groupe dans la page copiée
-- notes manquantes représentées par un tiret: le programme garde en mémoire le dernier choix de l’utilisateur (AB, PN, etc.) et permet l’option “laisser vide” (toujours avec possibilité d’enregistrer définitivement ce choix)
-- amélioration des messages d’erreur et avertissements (notes alpha)
+- Le programme est compatible avec Quizizz !
+- Moodle et Quizizz: ordre alphabétique conforme
+- Moodle et Quizizz: format des notes au choix
+- Gestion améliorée des notes manquantes « - »
 
 5.5.0.0 / 5.5
 - Mise à jour automatique du programme !
 - Affichage des nouveautés depuis la dernière mise à jour
-
-5.4.0.0 / 5.4
-- Correctif du bug “recalcul” dans Moodle
-
-5.3.0.0 / 5.3
-- Conversion des notes manquantes « - » au choix
-
-5.2.0.0 / 5.2
-- Fenêtres interactives mieux positionnées
-
-5.1.0.0 / 5.1
-- Correctif du bug dans Moodle lorsque l’option “Points pour chaque question” n’est pas activée (le programme attribuait alors une note de 0 à chaque élève)
-- Nouveau message d’erreur en cas de notes introuvables dans Moodle
-
-5.0.0.0 / 5.0
-- maintenant compatible avec Microsoft Edge (en plus de Google Chrome)
-- nouvelle fonctionnalité: copie directe des résultats de Moodle à COBA (ou ailleurs)
-- plusieurs correctifs apportés à l’interprétation des données, dont le fameux bug du symbole % dans Google Sheets
-- interprétation intelligente des commentaires (mi-étape et bulletin): les infos peuvent être entrées en plusieurs colonnes, ou séparées par des caractères spéciaux, ou même collées les unes aux autres
-- entrée encore plus rapide des informations dans COBA
-- détection des commentaires redondants sur une même ligne
-- gestion améliorée des informations manquantes (cases vides)
-- amélioration des messages d’erreur et avertissements (plus pertinents que jamais)
-- les messages d’erreurs disparaissent automatiquement après un certain délai
-- le programme a maintenant son logo officiel (et autres informations incluses dans le fichier exécutable)
-
-Version 4.0 (7 novembre 2023) - pour Christina P. et Marjolaine B.
-- changement d’appellation: les “commentaires” AB, PN, etc. sont des “remarques”
-- conversion des notes alpha en notes numériques (personnalisable)
-- gestion des commentaires de bulletin
-- gestion des commentaires de mi-étape
-- gestion des compétences transversales
-- amélioration des messages d’erreur et avertissements (numéro de ligne et pages suggérées)
-
-Version 3.1 (1er novembre 2023) - pour Emmanuel Dubeau
-- gestion du symbole % (élimination)
-- option (secrète) pour sauter les notes manquantes: entrer « X »
-
-Version 3.0 (26 octobre 2023) - pour Marjolaine Balthazar
-gestion des notes alpha
-amélioration des avertissements (cause de l’erreur expliquée)
-
-Version 2.0 (22 octobre 2023)
-installateur rapide + raccourci clavier (Ctrl+Shift+Alt+V)
-vérification améliorée du contenu du presse-papiers au lancement du programme
-meilleure détection de la page d’entrée de résultats
-meilleure interface utilisateur (fenêtres interactives toujours visibles)
-gestion des cases vides (choix proposé: note, commentaire, laisser vide)
-formatage des notes numériques
-distinction page de résultats de travaux / page de notes gelées
-arrondissement des notes (au dixième ou à l’unité, selon la page)
-gestion des commentaires (avec distinction travaux / notes gelées)
-conversion (secrète) du symbole « - » en commentaire PN si note gelée
-
-Version 1.1 (17 octobre 2023)
-arrondissement des notes (au dixième)
-
-Version 1.0 (20 juin 2023)
-copie rapide des notes numériques
-conversion des virgules en points
-conversion (secrète) du symbole « - » en commentaire AB
-notes manquantes transformées en cases vides (après confirmation)
