@@ -1,18 +1,2 @@
 1.4.0.0 / 1.4
 - Mise à jour automatique du programme !
-
-1.3.0.0 / 1.3
-- d’autres “séparateurs” que la virgule sont maintenant permis: tiret, barre oblique, parenthèses
-
-1.2.0.0 / 1.2
-- fenêtres interactives mieux positionnées
-
-1.1.0.0 / 1.1
-- traitement en chaîne de plusieurs groupes
-- option MAJUSCULES pour noms et prénoms (N! et P!)
-- détection des doublons (groupes qui apparaissent plus d’une fois)
-
-1.0.0.0 / 1.0
-- conversion de fichier .txt provenant de COBA en liste de tableur
-- choix des informations personnalisable (et conservé en mémoire)
-- possibilité de traiter jusqu’à 12 fichiers à la fois (résultats placés les uns à la suite des autres)
