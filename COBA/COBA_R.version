@@ -1,15 +1,16 @@
 # 5.7.0.0
+Moodle et Quizizz : ordre alphabétique conforme
 amélioration des messages d'avertissement
-Quizizz: correctif mineur (cas particulier)
+Quizizz : correctif mineur (cas particulier)
 divers changements internes
 
 # 5.6.1.0 / 5.6a
-Quizizz: correctif mineur (compatibilité)
+Quizizz : correctif mineur (compatibilité)
 
 # 5.6.0.0
 compatibilité avec Quizizz !
-Moodle et Quizizz: ordre alphabétique conforme
-Moodle et Quizizz: format des notes au choix
+Moodle et Quizizz : ordre alphabétique conforme
+Moodle et Quizizz : format des notes au choix
 gestion améliorée des notes manquantes « - »
 
 # 5.5.0.0 / 5.5a
