@@ -1,0 +1,88 @@
+! 29 septembre à 12:15
+
+# 7.1.0.0
+Classroom : notes alphabétiques acceptées
+Moodle : détection des pages incomplètes
+Quizizz : détection/correction des doublons
+détection plus rapide de la page COBA ouverte
+gestion améliorée des notes manquantes
+gestion améliorée des dénominateurs de notes
+arrondissement des notes plus complet
+détection/déduction du groupe (plateformes)
+transfert résultats de l'épreuve obligatoire
+nombreuses améliorations internes
+
+# 7.0.0.2
+Plateformes : correctifs importants
+
+# 7.0.0.0
+adaptation à la nouvelle mouture du portail
+compatibilité avec Classroom !
+tutoriels accessibles à partir du programme
+Résultats de COBA : notes gelées reconnues
+nombreuses améliorations internes
+
+# 6.3.0.0 / 6.3 (bêta)
+
+# 6.2.0.0
+entrée des résultats de l'épreuve obligatoire
+affichage de la compétence transversale choisie
+détection efficace de la page COBA ouverte
+modification de nombreux avertissements
+
+# 6.1.0.1
+Quizizz : correctif mineur (bases de données)
+
+# 6.1.0.0
+Listes de classe : choix selon dernière date
+correctif (notes manquantes : tiret = vide)
+
+# 6.0.1.0 / 6.0a
+Plateformes : correctif (notes décimales)
+
+# 6.0.0.0
+copie de listes d'élèves de COBA
+copie de résultats à partir de COBA
+fenêtres de confirmation et d'options
+nombreuses améliorations internes
+
+# 5.9.3.0 / 5.9c
+Quizizz : correctif (gestion des dénominateurs)
+
+# 5.9.2.0 / 5.9b
+notes avec dénominateur acceptées
+
+# 5.9.1.0 / 5.9a
+Moodle : avertissement si « pas encore évalué »
+Quizizz : notes décimales acceptées
+
+# 5.9.0.0
+Moodle et Quizizz : utilisation des noms de COBA
+Moodle et Quizizz : détection du groupe des élèves
+Quizizz : tri alphabétique des élèves automatisé
+
+# 5.8.0.3
+meilleure gestion du presse-papiers
+
+# 5.8.0.0
+entrée plus rapide/fiable des informations
+
+# 5.7.1.0 / 5.7a
+ajout d'un commentaire de bulletin (58)
+Moodle et Quizizz : correctif mineur
+
+# 5.7.0.0
+amélioration des messages d'avertissement
+Quizizz : correctif mineur (cas particulier)
+
+# 5.6.1.0 / 5.6a
+Quizizz : correctif mineur (compatibilité)
+
+# 5.6.0.0
+compatibilité avec Quizizz !
+Moodle et Quizizz : ordre alphabétique conforme
+Moodle et Quizizz : format des notes au choix
+gestion améliorée des notes manquantes « - »
+
+# 5.5.1.0 / 5.5a
+mise à jour automatique du programme !
