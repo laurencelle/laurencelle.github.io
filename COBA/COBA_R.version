@@ -1,3 +1,9 @@
+# 7.5.1.0 / 7.5a
+changements concernant la conversion alphanum.
+Formative : correctif de compatibilité
+Plateformes : meilleure détection du groupe
+amélioration des messages d'avertissement
+
 # 7.5.0.0
 détection incompatibilités infos vs COBA
 Classroom : détection travaux et quiz non faits
