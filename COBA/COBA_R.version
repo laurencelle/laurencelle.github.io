@@ -3,6 +3,13 @@ d'exclamation dès le début de ce fichier,
 suivi d'une date, par exemple :
 ! 31 décembre à 23h59
 
+# 7.8.0.0
+vérification des données transférées sur COBA
+analyse des notes copiées sans dénominateur
+nouvelle vérification des groupes décloisonnés
+amélioration des messages d'avertissement
+nombreuses améliorations internes
+
 # 7.7.0.6
 
 # 7.7.0.0
