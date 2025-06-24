@@ -3,7 +3,10 @@ d'exclamation dès le début de ce fichier,
 suivi d'une date, par exemple :
 ! 31 décembre à 23h59
 
-# 7.8.0.6
+# 7.8.1.0 / 7.8a
+Classroom : correctif de compatibilité
+entrée plus rapide des phrases programmées
+correctif de vérification (notes gelées)
 
 # 7.8.0.0
 vérification des notes transférées sur COBA
