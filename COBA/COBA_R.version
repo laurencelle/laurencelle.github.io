@@ -3,7 +3,12 @@ d'exclamation dès le début de ce fichier,
 suivi d'une date, par exemple :
 ! 31 décembre à 23h59
 
-# 8.0.1.9
+# 8.1.0.0
+Moodle : gestion des tentatives multiples
+Rapport exporté : notes alphabétiques
+Classroom : compatibilité de langues
+mise à jour automatique plus fluide
+gestion des doublons de noms d'élèves
 
 # 8.0.1.0 / 8.0a
 mise à jour des commentaires de mi-étape
