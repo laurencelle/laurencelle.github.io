@@ -3,6 +3,11 @@ d'exclamation dès le début de ce fichier,
 suivi d'une date, par exemple :
 ! 31 décembre à 23h59
 
+# 8.1.1.0
+Moodle : correctif de compatibilité
+Wayground : correctif de compatibilité
+amélioration des messages d'erreur
+
 # 8.1.0.0
 Moodle : gestion des tentatives multiples
 Rapport exporté : notes alphabétiques
