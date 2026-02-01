@@ -3,14 +3,10 @@ d'exclamation dès le début de ce fichier,
 suivi d'une date, par exemple :
 ! 31 décembre à 23h59
 
-# 8.3.1.0 / 8.2a
+# 8.2.1.0 / 8.2a
 amélioration des messages d'erreur
 correctif de conversion alphanumérique
 Wayground : nouvelle procédure
-changement #4
-changement #5
-changement #6
-changement #7
 
 # 8.2.0.0
 Listes de classe : groupes spéciaux
