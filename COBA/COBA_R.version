@@ -3,14 +3,17 @@ d'exclamation dès le début de ce fichier,
 suivi d'une date, par exemple :
 ! 31 décembre à 23h59
 
-# 8.2.0.1
+# 8.2.1.0 / 8.2a
+amélioration des messages d'erreur
+correctif de conversion alphanumérique
+Wayground : nouvelle procédure
 
 # 8.2.0.0
 Listes de classe : groupes spéciaux
 Plateformes : correction des noms et prénoms
 Rapports exportés : interprétation améliorée
 
-# 8.1.1.0
+# 8.1.1.0 / 8.1a
 Moodle : correctif de compatibilité
 Wayground : correctif de compatibilité
 amélioration des messages d'erreur
