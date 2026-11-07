@@ -3,6 +3,11 @@ d'exclamation dès le début de ce fichier,
 suivi d'une date, par exemple :
 ! 31 décembre à 23h59
 
+# 8.6.0.0
+élimination de la note alphabétique « F »
+nouveau serveur pour l'installation au CRA
+quelques améliorations internes
+
 # 8.5.2.0 / 8.5b
 mise à jour des commentaires de bulletin
 
